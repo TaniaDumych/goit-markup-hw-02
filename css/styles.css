@@ -10,7 +10,6 @@ body {
 }
 .container {
  width: 1440px;
-height: 3300px;
 display: flex;
  background-color: #ffffff;
 }
