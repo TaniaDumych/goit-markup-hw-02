@@ -9,12 +9,15 @@ font-family: "Roboto",Arial, Helvetica, sans-serif;
 background: #fff;
 unicode-bidi: isolate;
 display: block;
+padding: 0,15px;
 }
 .header-nav {
  border-bottom: 1px solid #e7e9fc;
 width: 1440px;
 height: 72px;
 background: #fff;
+display: flex;
+
 }
 .nav-logo {
 font-family: "Raleway", sans-serif;
@@ -45,6 +48,7 @@ color: #2e2f42;
 .nav-menu {
 width: 261px;
 height: 24px;
+display: flex;
 }
 .nav-link {
 font-family: "Roboto", sans-serif;
@@ -56,9 +60,11 @@ color: #2e2f42;
 margin-top: 24px;
 margin-bottom: 24px;
 padding: 40px;
+
 }
 .address-position {
 color: #434455;
+display: flex;
 }
 .emaii-link {
 font-family: "Roboto", sans-serif;
