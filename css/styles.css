@@ -126,14 +126,6 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 .order-button-list:focus {
 background-color: #4d5ae5;
 }
-.order-servise {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 150%;
-letter-spacing: 0.04em;
-color: #fff;
-}
 .name-section {
 font-family: "Raleway", Arial, sans-serif;
 font-weight: 700;
