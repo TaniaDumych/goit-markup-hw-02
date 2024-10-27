@@ -7,6 +7,8 @@ font-family: "Roboto",Arial, Helvetica, sans-serif;
 }
 .container {
 background: #fff;
+unicode-bidi: isolate;
+display: block;
 }
 .header-nav {
  border-bottom: 1px solid #e7e9fc;
@@ -22,6 +24,8 @@ line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+margin-bottom: 24px;
+margin-top: 24px;
 }
 .nav-accent {
 font-family: "Raleway", sans-serif;
@@ -31,6 +35,8 @@ line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;
+margin-bottom: 24px;
+margin-top: 24px;
 }
 .nav-logo-accent .link:hover,
 .nav-logo-accent .link:focus {
@@ -47,6 +53,9 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #2e2f42;
+margin-top: 24px;
+margin-bottom: 24px;
+padding: 40px;
 }
 .address-position {
 color: #434455;
@@ -58,6 +67,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
+padding-right: 40px;
 }
 .tel-link {
 font-family: "Roboto", sans-serif;
@@ -66,6 +76,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
+
 }
 .menu-link .link:hover,
 .menu-link .link:focus {
@@ -74,7 +85,7 @@ color: #434455;
 #hero-image {
  width: 1440px;
 height: 600px;
-background: #2e2f42;
+background-color: #2e2f42;
 }
 .hero-title {
 font-family: "Roboto", sans-serif;
@@ -96,7 +107,6 @@ font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
-letter-spacing: 0.04em;
 color: #fff;
 }
 .order-button .link:hover,
@@ -109,7 +119,6 @@ height: 104px;
 }
 .name-section {
 width: 264px;
-height: 104px;
 }
 .name-opportunities {
 font-family: "Roboto", sans-serif;
@@ -204,12 +213,11 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .footer-page {
-width: 1440px;
 height: 312px;
 padding: 20px;
 background-color: #2e2f42;
-text-align: center;
 line-height: 1.6;
+box-sizing: border-box;
  }
 .footer-logo {
 font-family: "Raleway", sans-serif;
