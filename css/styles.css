@@ -20,7 +20,7 @@ width: 1440px;
 height: 72px;
 background: #fff;
 }
-.nav-logo-Web {
+.nav-logo {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -28,8 +28,9 @@ line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+
 }
-.nav-logo-Studio {
+.nav-accent {
  font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px; 
