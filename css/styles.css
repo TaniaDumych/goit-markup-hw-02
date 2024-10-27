@@ -1,14 +1,17 @@
 body {
- font-family: "Roboto", Arial, sans-serif;
+ font-family: "Roboto", Arial, sans-serif; 
+ font-family: "Raleway",sans-serif;
  color: #333; 
-margin: 0;
-padding: 0;
+ background: #fff;
+ font-size: 16px;
+ line-height: 1.5;
+ margin: 0;
+ padding: 0;
 }
 .container {
  width: 1440px;
  height: 72px;
 display: flex;
-content: space-between;
  background-color: #ffffff;
 }
 .header-nav {
@@ -90,7 +93,7 @@ color: #434455;
  background-color: #434455;
 }
 #hero-image {
- width: 1440px;
+width: 1440px;
 height: 600px;
 background-color: #2e2f42;
 background-image: url('./images/hero-image.jpg');
@@ -251,8 +254,6 @@ height: 312px;
 padding: 20px;
 background-color: #2e2f42;
 text-align: center;
-}
-
 }
 .footer-logo {
 font-family: "Raleway", sans-serif;
