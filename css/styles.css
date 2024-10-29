@@ -124,11 +124,11 @@ color: #434455;
 #hero-image {
  width: 1440px;
 height: 600px;
-background-image:linear-gradient (rgba #2e2f42;)
+background: rgba(46, 47, 66, 1);
 color:#2e2f42;
 padding-top: 188px;
 text-align: center;
-display: flex;
+display:block;
 align-items: center;
 top: 72px;
 gap: 0px;
