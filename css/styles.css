@@ -75,6 +75,7 @@ letter-spacing: 0.02em;
 color: #434455;
 padding-right: 40px;
 font-style: normal;
+text-align: right;
 }
 .tel-link {
 font-family: "Roboto", sans-serif;
@@ -84,6 +85,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
+text-align: right;
 
 }
 .menu-link .link:hover,
@@ -190,6 +192,11 @@ color: #434455;
 width: 1128px;
 height: 1000px;
 overflow: hidden;
+display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ gap: 24px;
+  width: 100%;
+   height: auto; 
 }
 .portfolio-section {
  font-family: "Roboto", sans-serif;
