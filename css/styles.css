@@ -214,26 +214,8 @@ width: 1128px;
 height: 1000px;
 overflow: hidden;
 display: grid;
-  width: 100%;
+
  height: auto; 
- ./img1 
-grid-column: 1 / 2; /* перша колонка */
-grid-row: 2 / 3;
-  .img2 
-grid-column: 2 / 3; /* друга колонка */
-grid-row: 2 / 3;
-  .img3 
-grid-column: 3 / 4; /* третя колонка */
-grid-row: 2 / 3;
-  .img4 
-grid-column: 1 / 2; /* перша колонка */
-grid-row: 3 / 4;
-  .img5 
-grid-column: 2 / 3; /* друга колонка */
-grid-row: 3 / 4;
-  .img6 
-grid-column: 3 / 4; /* третя колонка */
-grid-row: 3 / 4; 
 } 
   .portfolio-section {
  font-family: "Roboto", sans-serif;
@@ -243,6 +225,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+width: calc (33% - 2em);
 }
 .portfolio-list {
 width: 1128px;
