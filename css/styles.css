@@ -94,7 +94,7 @@ color: #434455;
  width: 1440px;
 height: 600px;
 background-color: #2e2f42;
-color: #fff;
+color:#2e2f42;
 }
 .hero-title {
 font-family: "Roboto", sans-serif;
@@ -163,10 +163,10 @@ color: #2e2f42;
 .team-list {
 border-radius: 0 0 4px 4px;
 padding: 0px 0px 32px 0px;
-width: 264px;
 height: 380px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #fff;
+display: flex;
 }
 .name-team {
 font-family: "Roboto", sans-serif;
@@ -203,6 +203,7 @@ color: #2e2f42;
 .portfolio-list {
 width: 1128px;
 height: 420px;
+display: flex;
 }
 .name-portfolio {
  width: 360px;
