@@ -2,6 +2,7 @@
 font-family: "Roboto",Arial, Helvetica, sans-serif;
  font-family: "Raleway",sans-serif;
  color: #fff;
+ color: #2e2f42;
  font-size: 16px;
  line-height: 1.5;
 }
@@ -171,7 +172,6 @@ cursor: pointer;
 }
 #opportunities {
 width: 1128px;
-height: 104px;
 width: Fixed (264px)px;
 height: Hug (104px)px;
 top: 792px;
@@ -201,7 +201,6 @@ color: #434455;
 }
 #team {
  width: 1440px;
-height: 732px;
 background: #f4f4fd;
 top: 1016px;
 gap: 0px;
@@ -215,8 +214,7 @@ font-size: 36px;
 line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
-color: #2e2f42;width: 162px;
-height: 40px;
+color: #2e2f42;
 top: 1136px;
 left: 639px;
 gap: 0px;
@@ -280,11 +278,9 @@ border-color: rgba(231, 233, 252, 1);
  font-weight: 700;
 font-size: 36px; 
 line-height: 111%;
-letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 width: calc (33% - 2em);
-width: 218px;
 height: 40px;
 top: 1868px;
 left: 611px;
