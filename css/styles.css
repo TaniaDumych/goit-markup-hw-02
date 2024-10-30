@@ -172,8 +172,6 @@ cursor: pointer;
 }
 #opportunities {
 width: 1128px;
-width: Fixed (264px)px;
-height: Hug (104px)px;
 top: 792px;
 left: 156px;
 gap: 8px;
@@ -212,7 +210,6 @@ font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 111%;
-letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 top: 1136px;
@@ -229,8 +226,7 @@ padding: 0px 0px 32px 0px;
 height: 380px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #fff;
-display: flex;
- width: 264px;
+width: 264px;
 height: 380px;
 background: url("path_to_image");
 top: 1248px;
@@ -263,19 +259,19 @@ width: 1128px;
 height: 1000px;
 overflow: hidden;
 display: grid;
- height: auto;
- top: 1868px;
- left: 156px;
- gap: 0px;
- border: 1px 0px 0px 0px;
- opacity: 0px;
- border-width: 1px, 1px, 1px, 1px;
+height: auto;
+top: 1868px;
+left: 156px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border-width: 1px, 1px, 1px, 1px;
 border-style: solid;
 border-color: rgba(231, 233, 252, 1);
 } 
   .portfolio-section {
- font-family: "Roboto", sans-serif;
- font-weight: 700;
+font-family: "Roboto", sans-serif;
+font-weight: 700;
 font-size: 36px; 
 line-height: 111%;
 text-align: center;
@@ -291,7 +287,6 @@ opacity: 0px;
 .portfolio-list {
 width: 1128px;
 height: 420px;
-display: flex;
 top: 1980px;
 left: 156px;
 gap: 0px;
@@ -305,7 +300,6 @@ opacity: 0px;
 }
 .name-portfolio {
  width: 360px;
-height: 420px;
 background: #fff;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
