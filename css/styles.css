@@ -39,7 +39,7 @@ margin-top: 24px;
 }
 .nav-logo-accent .link:hover,
 .nav-logo-accent .link:focus {
-color: #404BBF;
+background-color: #404BBF;
 }
 .nav-menu {
   color: #2e2f42;
@@ -53,11 +53,10 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 margin-top: 24px;
 margin-bottom: 24px;
-display: flex;
 }
 .nav-link:hover,
 .nav-link:focus {
-color: #404BBF
+background-color: #404BBF
 }
 .address-link-menu {
 font-family: "Roboto", sans-serif;
@@ -66,7 +65,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-display: flex;
 font-style: normal;
 
 }
@@ -93,7 +91,7 @@ text-align: right;
 }
 .address-link .link:hover,
 .address-link .link:focus {
-color: #404BBF;
+background-color: #404BBF;
 }
 #hero-image {
 background: #2e2f42;
@@ -124,16 +122,10 @@ padding: 16px 32px 16px 32px;
 }
 .order-button .link:hover,
 .order-button .link:focus {
-color: #404BBF;
+background-color: #404BBF;
 cursor: pointer;
 }
 #opportunities {
-color: #2e2f42;
-color: #434455;
-
-}
-
-.name-opportunities {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
@@ -150,7 +142,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 #team {
-background: #f4f4fd;
+background-color: #ffffff;
 }
 .name-section {
 font-family: "Roboto", sans-serif;
@@ -158,14 +150,13 @@ font-weight: 700;
 font-size: 36px;
 line-height: 111%;
 text-align: center;
-letter-spacing: 0,02em;
+letter-spacing: 0.02em;
 color: #2e2f42;
 text-transform: capitalize;
 
 }
 .team-list {
 background-color: #ffffff;
-width: 264px;
 background: url("path_to_image");
  }
 .name-team {
@@ -197,7 +188,7 @@ font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px; 
 line-height: 111%;
-letter-spacing: 0,02em;
+letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
