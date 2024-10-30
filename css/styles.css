@@ -37,7 +37,9 @@ color: #2e2f42;
 margin-bottom: 24px;
 margin-top: 24px;
 }
-.nav-logo-accent .link:hover,
+.nav-logo-accent .link:hover {
+  background-color: #404BBF;
+}
 .nav-logo-accent .link:focus {
 background-color: #404BBF;
 }
@@ -54,7 +56,9 @@ color: #2e2f42;
 margin-top: 24px;
 margin-bottom: 24px;
 }
-.nav-link:hover,
+.nav-link:hover {
+  background-color: #404BBF;
+}
 .nav-link:focus {
 background-color: #404BBF
 }
@@ -89,7 +93,9 @@ font-style: normal;
 text-align: right;
 
 }
-.address-link .link:hover,
+.address-link .link:hover {
+  background-color: #404BBF;
+}
 .address-link .link:focus {
 background-color: #404BBF;
 }
@@ -120,7 +126,10 @@ line-height: 150%;
 color: #fff;
 padding: 16px 32px 16px 32px;
 }
-.order-button .link:hover,
+.order-button .link:hover{
+background-color: #404BBF;
+cursor: pointer;
+}
 .order-button .link:focus {
 background-color: #404BBF;
 cursor: pointer;
@@ -142,7 +151,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 #team {
-background-color: #ffffff;
+background-color: #f4f4fd;
 }
 .name-section {
 font-family: "Roboto", sans-serif;
@@ -176,6 +185,7 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
+background-color: #ffffff;
 color: #434455;
 }
 #portfolio {
