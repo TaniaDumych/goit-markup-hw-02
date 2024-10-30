@@ -113,8 +113,7 @@ font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
-color: #fff;
-max-width: 496px;
+color: #ffffff;
 }
 .order-button {
 line-height: 1.5;
@@ -125,7 +124,6 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 color: #fff;
-padding: 16px 32px 16px 32px;
 }
 .order-button:hover{
 background-color: #404BBF;
@@ -135,7 +133,7 @@ cursor: pointer;
 background-color: #404BBF;
 cursor: pointer;
 }
-#opportunities {
+#opportunities-section {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
@@ -155,6 +153,7 @@ color: #434455;
 background-color: #f4f4fd;
 }
 .name-section {
+  background-color: #ffffff;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
@@ -207,7 +206,7 @@ text-transform: capitalize;
 
 }
 .portfolio-list {
-  background-color: #f4f4fd;
+background-color: #f4f4fd;
 color: #ffffff;
 
 }
@@ -233,7 +232,6 @@ color: #434455;
 .footer-page {
 background-color: #2e2f42;
 line-height: 1.6;
-box-sizing: border-box;
 }
 
 .footer-logo {
