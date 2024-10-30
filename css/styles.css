@@ -233,18 +233,16 @@ height: 380px;
 box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #fff;
 display: flex;
- width: Hug (264px)px;
-height: Hug (380px)px;
+ width: 264px;
+height: 380px;
+background: url("path_to_image");
 top: 1248px;
 left: 156px;
 padding: 0px 0px 32px 0px;
 gap: 32px;
 border-radius: 0px 0px 4px 4px;
 opacity: 0px;
-
-  }
-  
-}
+ }
 .name-team {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
