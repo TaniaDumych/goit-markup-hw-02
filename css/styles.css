@@ -37,10 +37,10 @@ color: #2e2f42;
 margin-bottom: 24px;
 margin-top: 24px;
 }
-.nav-logo-accent .link:hover {
+.nav-logo-accent:hover {
   background-color: #404BBF;
 }
-.nav-logo-accent .link:focus {
+.nav-logo-accent:focus {
 background-color: #404BBF;
 }
 .nav-menu {
@@ -81,6 +81,7 @@ letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
 text-align: right;
+
 }
 .address-link {
 font-family: "Roboto", sans-serif;
@@ -93,10 +94,10 @@ font-style: normal;
 text-align: right;
 
 }
-.address-link .link:hover {
+.address-link:hover {
   background-color: #404BBF;
 }
-.address-link .link:focus {
+.address-link:focus {
 background-color: #404BBF;
 }
 #hero-image {
@@ -126,11 +127,11 @@ line-height: 150%;
 color: #fff;
 padding: 16px 32px 16px 32px;
 }
-.order-button .link:hover{
+.order-button:hover{
 background-color: #404BBF;
 cursor: pointer;
 }
-.order-button .link:focus {
+.order-button:focus {
 background-color: #404BBF;
 cursor: pointer;
 }
@@ -194,6 +195,7 @@ border-style: solid;
 border-color: rgba(231, 233, 252, 1);
 } 
 .portfolio-section {
+  background-color: #f4f4fd;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px; 
@@ -205,11 +207,12 @@ text-transform: capitalize;
 
 }
 .portfolio-list {
+  background-color: #f4f4fd;
 color: #ffffff;
 
 }
 .name-portfolio {
-background: #fff;
+background: #ffffff;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
