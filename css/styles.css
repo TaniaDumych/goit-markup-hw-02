@@ -10,7 +10,6 @@ font-family: "Roboto",Arial, Helvetica, sans-serif;
 background: #fff;
 unicode-bidi: isolate;
 display: block;
-padding: 0,15px;
  display: grid;
 grid-template-columns: repeat(3, 1fr); 
  gap: 20px; 
@@ -55,12 +54,10 @@ color: #2e2f42;
 .nav-menu {
 width: 261px;
 height: 24px;
-display: flex;width: Hug (261px)px;
-height: Hug (24px)px;
+display: flex;
 top: 24px;
 left: 347px;
 gap: 40px;
-opacity: 0px;
 
 }
 .nav-link {
@@ -97,8 +94,6 @@ height: 24px;
 top: 24px;
 left: 940px;
 gap: 0px;
-opacity: 0px;
-
 }
 .tel-link {
 font-family: "Roboto", sans-serif;
@@ -115,7 +110,6 @@ height: 24px;
 top: 24px;
 left: 1133px;
 gap: 0px;
-opacity: 0px;
 
 }
 .menu-link .link:hover,
@@ -132,8 +126,6 @@ display:block;
 align-items: center;
 top: 72px;
 gap: 0px;
-opacity: 0px;
-
 }
 .hero-title {
 font-family: "Roboto", sans-serif;
@@ -144,7 +136,6 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 max-width: 496px;
-letter-spacing: 2%;
 }
 .order-button {
 line-height: 1.5;
@@ -155,14 +146,11 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 color: #fff;
-width: Hug (169px)px;
-height: Hug (56px)px;
 top: 428px;
 left: 636px;
 padding: 16px 32px 16px 32px;
 gap: 10px;
 border-radius: 4px 0px 0px 0px;
-opacity: 0px;
 
 }
 .order-button .link:hover,
@@ -175,7 +163,6 @@ width: 1128px;
 top: 792px;
 left: 156px;
 gap: 8px;
-opacity: 0px;
 
 }
 .name-section {
@@ -202,7 +189,7 @@ color: #434455;
 background: #f4f4fd;
 top: 1016px;
 gap: 0px;
-opacity: 0px;
+
 
 }
 .name-section {
@@ -215,7 +202,6 @@ color: #2e2f42;
 top: 1136px;
 left: 639px;
 gap: 0px;
-opacity: 0px;
 font-family: Roboto;
 font-size: 36px;
 text-align: center;
@@ -234,7 +220,6 @@ left: 156px;
 padding: 0px 0px 32px 0px;
 gap: 32px;
 border-radius: 0px 0px 4px 4px;
-opacity: 0px;
  }
 .name-team {
 font-family: "Roboto", sans-serif;
@@ -263,9 +248,6 @@ height: auto;
 top: 1868px;
 left: 156px;
 gap: 0px;
-border: 1px 0px 0px 0px;
-opacity: 0px;
-border-width: 1px, 1px, 1px, 1px;
 border-style: solid;
 border-color: rgba(231, 233, 252, 1);
 } 
@@ -276,12 +258,10 @@ font-size: 36px;
 line-height: 111%;
 text-align: center;
 color: #2e2f42;
-width: calc (33% - 2em);
 height: 40px;
 top: 1868px;
 left: 611px;
 gap: 0px;
-opacity: 0px;
 
 }
 .portfolio-list {
@@ -290,12 +270,8 @@ height: 420px;
 top: 1980px;
 left: 156px;
 gap: 0px;
-border: 1px 0px 0px 0px;
-opacity: 0px;
 top: 2448px;
 gap: 0px;
-opacity: 0px;
-
 
 }
 .name-portfolio {
@@ -310,7 +286,6 @@ color: #2e2f42;
 top: 1980px;
 left: 156px;
 gap: 0px;
-opacity: 0px;
 
 }
 .type-communication {
@@ -330,7 +305,6 @@ box-sizing: border-box;
 width: 1440px;
 top: 2988px;
 gap: 0px;
-opacity: 0px;
 
  }
 .footer-logo {
@@ -369,6 +343,4 @@ height: 72px;
 top: 3128px;
 left: 156px;
 gap: 0px;
-opacity: 0px;
-
 }
