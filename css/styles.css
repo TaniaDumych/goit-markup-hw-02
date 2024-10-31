@@ -58,10 +58,10 @@ margin-top: 24px;
 margin-bottom: 24px;
 }
 .nav-link:hover {
- background-color: #404BBF;
+ color: #404BBF;
 }
 .nav-link:focus {
-background-color: #404BBF
+color: #404BBF
 }
 .address-link-menu {
 font-family: "Roboto", sans-serif;
@@ -96,10 +96,10 @@ text-align: right;
 
 }
 .address-link:hover {
-background-color: #404BBF;
+color: #404BBF;
 }
 .address-link:focus {
-background-color: #404BBF;
+color: #404BBF;
 }
 #hero-image {
 background: #2e2f42;
@@ -163,9 +163,10 @@ color: #434455;
 }
 #team {
 background-color: #f4f4fd;
+background-color: #ffffff;
 }
 .name-section {
-  background-color: #ffffff;
+background-color: #ffffff;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
