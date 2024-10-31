@@ -95,7 +95,7 @@ text-align: right;
 
 }
 .address-link:hover {
-  background-color: #404BBF;
+background-color: #404BBF;
 }
 .address-link:focus {
 background-color: #404BBF;
@@ -104,7 +104,6 @@ background-color: #404BBF;
 background: #2e2f42;
 padding-top: 188px;
 text-align: center;
-display:block;
 }
 .hero-title {
 font-family: "Roboto", sans-serif;
@@ -133,7 +132,16 @@ cursor: pointer;
 background-color: #404BBF;
 cursor: pointer;
 }
-#opportunities-section {
+#opportanities {
+  font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.opportunities-section {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
