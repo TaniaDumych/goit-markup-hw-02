@@ -161,6 +161,7 @@ color: #434455;
 }
 #team {
 background-color: #f4f4fd;
+text-decoration: none;
 }
 .name-section {
 font-family: "Roboto", sans-serif;
@@ -175,7 +176,7 @@ text-transform: capitalize;
 
 }
 .team-list {
-background-color: #ffffff;
+background-color: #f4f4fd;
 
  }
 .name-team {
