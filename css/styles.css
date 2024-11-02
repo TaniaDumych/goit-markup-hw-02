@@ -40,7 +40,7 @@ background-color: #404BBF;
 background-color: #404BBF;
 }
 .nav-menu {
-  color: #2e2f42;
+color: #2e2f42;
 }
 .nav-link {
 font-family: "Roboto", sans-serif;
@@ -48,7 +48,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-background-color: #2e2f42;
+color: #2e2f42;
 margin-top: 24px;
 margin-bottom: 24px;
 }
@@ -158,10 +158,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 #team {
-background-color: #f4f4fd;
+background-color: #ffffff;
 }
 .name-section {
-background-color: #f4f4fd;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
@@ -198,14 +197,12 @@ background-color: #ffffff;
 }
 #portfolio {
 overflow: hidden;
-border-style: solid;
 border-color: rgba(231, 233, 252, 1);
 text-decoration: none;
 color: inherit;
 list-style: none;
 } 
 .portfolio-section {
-  background-color: #f4f4fd;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px; 
@@ -217,7 +214,6 @@ text-transform: capitalize;
 
 }
 .portfolio-list {
-background-color: #f4f4fd;
 color: #ffffff;
 
 }
