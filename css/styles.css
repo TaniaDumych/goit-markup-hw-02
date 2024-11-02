@@ -41,6 +41,8 @@ background-color: #404BBF;
 }
 .nav-menu {
 color: #2e2f42;
+text-decoration: none;
+list-style-type: none;
 }
 .nav-link {
 font-family: "Roboto", sans-serif;
@@ -158,7 +160,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 #team {
-background-color: #ffffff;
+background-color: #f4f4fd;
 }
 .name-section {
 font-family: "Roboto", sans-serif;
@@ -200,7 +202,6 @@ overflow: hidden;
 border-color: rgba(231, 233, 252, 1);
 text-decoration: none;
 color: inherit;
-list-style: none;
 } 
 .portfolio-section {
 font-family: "Roboto", sans-serif;
