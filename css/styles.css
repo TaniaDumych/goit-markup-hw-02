@@ -3,6 +3,12 @@ font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #ffffff;
 }
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
 .container {
 background-color: #ffffff;
 unicode-bidi: isolate;
@@ -187,6 +193,7 @@ line-height: 120%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+background-color: #ffffff;
 }
 .team-profession {
 font-family: "Roboto", sans-serif;
@@ -196,6 +203,7 @@ line-height: 150%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
+background-color: #ffffff;
 }
 #portfolio {
 overflow: hidden;
